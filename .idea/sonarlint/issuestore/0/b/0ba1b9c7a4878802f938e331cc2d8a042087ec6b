@@ -1,0 +1,73 @@
+
+ƒ
+java:S1192>"fDefine a constant instead of duplicating this literal "com.bidgely.cloud.core.lib.paper.nbi." 4 times.(´§áÿ8ì˜‚”­1
+z
+java:S1192K"^Define a constant instead of duplicating this literal "\", \"IMAGE\",\"PAPER_NBI\");" 3 times.(€–®48ì˜‚”­1
+…
+java:S1192E"hDefine a constant instead of duplicating this literal "\", \"STRING_RESOURCE\",\"PAPER_NBI\");" 4 times.(¤¶†š8ì˜‚”­1
+i
+java:S1192D"GDefine a constant instead of duplicating this literal "\", \"" 7 times.(‰ÔÿŒÿÿÿÿÿ8ì˜‚”­1
+j
+java:S1192+"HDefine a constant instead of duplicating this literal "\\u0027" 8 times.(Ÿ÷¤øÿÿÿÿ8í˜‚”­1
+u	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(·éÑì8í˜‚”­1
+W
+java:S1141$"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8í˜‚”­1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Šùšùÿÿÿÿ8í˜‚”­1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼õŞ8í˜‚”­1
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(é·¦ö8»š‚”­1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ß²ÿÒúÿÿÿÿ8»š‚”­1
+i
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ã®ªå8»š‚”­1
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(²Æ”Òøÿÿÿÿ8»š‚”­1
+j
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÜİÛÿÿÿÿÿ8»š‚”­1
+l
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ñ¯ÁÃûÿÿÿÿ8»š‚”­1
+Y
+java:S1854!"7Remove this useless assignment to local variable "row".(¯¼©¾ıÿÿÿÿ8½š‚”­1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( ¶êùÿÿÿÿ8¿š‚”­1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¡Šùšùÿÿÿÿ8¿š‚”­1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¼õŞ8¿š‚”­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şêèÔıÿÿÿÿ8Æš‚”­1
+]	java:S125%"<This block of commented-out lines of code should be removed.(„ÖûÙúÿÿÿÿ8Çš‚”­1
+j
+java:S5361+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Çš‚”­1
+j
+java:S5361*"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ê—Úüÿÿÿÿ8Çš‚”­1
+j
+java:S5361-"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Èš‚”­1
+e
+java:S5361,"HReplace this call to "replaceAll()" by a call to the "replace()" method.(–¢¼8Èš‚”­1
+j
+java:S5361/"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Èš‚”­1
+j
+java:S5361."HReplace this call to "replaceAll()" by a call to the "replace()" method.(ä”½úşÿÿÿÿ8Èš‚”­1
+j
+java:S53611"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Èš‚”­1
+j
+java:S53610"HReplace this call to "replaceAll()" by a call to the "replace()" method.(´˜ö—ÿÿÿÿÿ8Èš‚”­1
+j
+java:S53613"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Èš‚”­1
+j
+java:S53612"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Í³‡éúÿÿÿÿ8Èš‚”­1
+j
+java:S53615"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Éš‚”­1
+e
+java:S53614"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÓÄà8Éš‚”­1
+j
+java:S53617"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Éš‚”­1
+j
+java:S53616"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¡äåŠøÿÿÿÿ8Éš‚”­1
+j
+java:S53619"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ÿ÷¤øÿÿÿÿ8Éš‚”­1
+j
+java:S53618"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ú¿ÌÈøÿÿÿÿ8Éš‚”­1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(Õ Ê¶ùÿÿÿÿ8Ëš‚”­1
+T	java:S106|"9Replace this use of System.out or System.err by a logger.(ƒ†½m8Ëš‚”­1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Ëš‚”­1
